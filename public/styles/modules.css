@@ -2,20 +2,22 @@
     * {
         font-family: 'Ruge Boogie', cursive
     }
-    header {
+    /* header {
         background-color: black;
         color: white;
         font-size: xx-large;
         height: 30%;
-    }
-    main {
+    } */
+    /* main {
         background-color: rgb(206, 201, 201);
-    }
+    } */
     h2 {
         text-align: center;
-        background-color: rgb(99, 97, 97);
+       
         height: 20%;
         font-size: xx-large;
         margin: auto;
     }
+    
+
 }
